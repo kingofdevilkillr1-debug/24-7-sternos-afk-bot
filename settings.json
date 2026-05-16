@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "billfish.aternos.host",
+    "ip": "bigscale.aternos.host",
     "port": 39733,
     "version": "1.20.1",
     "try-creative": false
